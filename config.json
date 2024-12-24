@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTMyMTIxNDEwMzQwMTc5MTU4MA.GReenE.SZW-KDgZvCFlSSqqekm-ukoQb1-OONikBIrhl0",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": ".",
+    "mongodbUri": "mongodb+srv://OBUSSIN:stu8976@obussin@pxi.fk2nn.mongodb.net/?retryWrites=true&w=majority&appName=PXI",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
@@ -12,7 +12,7 @@
         "troll": true
     },
     "categories": {
-        "anime": true,
+        "anime": false,
         "basic": true,
         "utility": true,
         "moderation": true,
